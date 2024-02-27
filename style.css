@@ -1,0 +1,47 @@
+.test_image_and_result
+{
+  background-color: grey;
+  color: white;
+  font-size: 18px;
+  border-radius: 20px;
+  padding: 30px;
+  margin: 30px;
+  box-shadow: 5px 5px 5px lightgrey;
+}
+
+.test_image_and_result img
+{
+  height: 300px;
+  width: 250px;
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px white;
+}
+
+.test_image_and_result h5
+{
+  background-color: white;
+  padding: 20px;
+  border-radius: 10px;
+  font-size: 20px;
+  color: black;
+}
+
+.test_image_and_result span
+{
+  font-size: 23px;
+  color: red;
+  font-weight: bold;
+}
+
+.mini_result h4
+{
+  font-size: 27px;
+  font-weight: bold;
+  text-align: center;
+}
+
+.heading
+{
+  font-weight: bold;
+  color: red;
+}
